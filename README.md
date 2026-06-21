@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![Research](https://img.shields.io/badge/Research-Project-orange)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Steganography-red)
 
 ## 📖 Overview
 
